@@ -1,0 +1,4 @@
+K:\Projects\GideonGame\GideonGame\TestWebApp\bin\TestWebApp.dll
+K:\Projects\GideonGame\GideonGame\TestWebApp\bin\TestWebApp.pdb
+K:\Projects\GideonGame\GideonGame\TestWebApp\obj\Debug\TestWebApp.dll
+K:\Projects\GideonGame\GideonGame\TestWebApp\obj\Debug\TestWebApp.pdb
