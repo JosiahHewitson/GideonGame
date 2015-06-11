@@ -18,7 +18,7 @@ namespace CoreEngine
         /// <returns>Game over Message</returns>
         public static string EndGame()
         {
-            return "Game Over";
+            return "End of the Game";
         }
     }
 }
