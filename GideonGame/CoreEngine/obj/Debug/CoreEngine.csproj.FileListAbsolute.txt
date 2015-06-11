@@ -1,0 +1,4 @@
+K:\Projects\GideonGame\GideonGame\CoreEngine\bin\Debug\CoreEngine.dll
+K:\Projects\GideonGame\GideonGame\CoreEngine\bin\Debug\CoreEngine.pdb
+K:\Projects\GideonGame\GideonGame\CoreEngine\obj\Debug\CoreEngine.dll
+K:\Projects\GideonGame\GideonGame\CoreEngine\obj\Debug\CoreEngine.pdb

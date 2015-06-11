@@ -1,0 +1,10 @@
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.Properties.Resources.resources
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.csproj.GenerateResource.Cache
+K:\Projects\GideonGame\GideonGame\GideonGame\bin\Debug\GideonGame.exe
+K:\Projects\GideonGame\GideonGame\GideonGame\bin\Debug\GideonGame.pdb
+K:\Projects\GideonGame\GideonGame\GideonGame\bin\Debug\CoreEngine.dll
+K:\Projects\GideonGame\GideonGame\GideonGame\bin\Debug\CoreEngine.pdb
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.csprojResolveAssemblyReference.cache
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.exe
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.pdb
+K:\Projects\GideonGame\GideonGame\GideonGame\obj\x86\Debug\GideonGame.Form1.resources

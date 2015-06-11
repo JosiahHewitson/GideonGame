@@ -1,0 +1,7 @@
+K:\Projects\GideonGame\GideonGame\TestHarness\bin\Debug\TestHarness.exe
+K:\Projects\GideonGame\GideonGame\TestHarness\bin\Debug\TestHarness.pdb
+K:\Projects\GideonGame\GideonGame\TestHarness\obj\x86\Debug\TestHarness.exe
+K:\Projects\GideonGame\GideonGame\TestHarness\obj\x86\Debug\TestHarness.pdb
+K:\Projects\GideonGame\GideonGame\TestHarness\bin\Debug\CoreEngine.dll
+K:\Projects\GideonGame\GideonGame\TestHarness\bin\Debug\CoreEngine.pdb
+K:\Projects\GideonGame\GideonGame\TestHarness\obj\x86\Debug\TestHarness.csprojResolveAssemblyReference.cache
