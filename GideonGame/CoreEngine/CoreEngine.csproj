@@ -40,10 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Enums.cs" />
     <Compile Include="GameMaster.cs" />
+    <Compile Include="Improvements\BaseImprovement.cs" />
+    <Compile Include="Improvements\BuildingImprovements.cs" />
+    <Compile Include="Improvements\ResourceImprovement.cs" />
+    <Compile Include="Improvements\TransportationImprovement.cs" />
     <Compile Include="Objects\GameState.cs" />
     <Compile Include="Objects\Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\BaseResource.cs" />
+    <Compile Include="Resources\FinishedResources.cs" />
+    <Compile Include="Resources\RawResource.cs" />
+    <Compile Include="World\MapCoordinate.cs" />
+    <Compile Include="World\Province.cs" />
+    <Compile Include="World\WorldGenerator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,26 +2,35 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using CoreEngine.World;
 
 namespace CoreEngine
 {
     public class GameMaster
     {
-        private Objects.GameState _currentState;
+        private static Objects.GameState _currentState;
+        private static List<Province> _world;
 
-        public Objects.GameState CurrentState
+
+        public static Objects.GameState CurrentState
         {
             get { return _currentState; }
         }
 
-
+        public static List<Province> World { get { return _world; } }
 
         public static void StartGame()
         {
             //This is a comment
+            WorldGenerator generator= new WorldGenerator();
+
+            generator.Height = 100;
+            generator.Width = 100;
+            _world = generator.GenerateWorld();
+
         }
 
-        public Objects.GameState ProcessTurn()
+        public static Objects.GameState ProcessTurn()
         {
             Objects.GameState currentState = CurrentState;
 

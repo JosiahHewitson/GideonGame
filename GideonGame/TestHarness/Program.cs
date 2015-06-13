@@ -9,6 +9,8 @@ namespace TestHarness
     {
         static void Main(string[] args)
         {
+            CoreEngine.GameMaster.StartGame();
+
             Console.WriteLine(CoreEngine.GameMaster.EndGame());
             Console.ReadKey();
         }
